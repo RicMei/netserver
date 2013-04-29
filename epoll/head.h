@@ -1,3 +1,6 @@
+/*
+* file head.h
+*/
 #include <errno.h>
 #include <unistd.h>
 #include <cstdlib>
